@@ -1,0 +1,1 @@
+This is a test for a static file entry like any image or text file which can be viewed by the user or client.
